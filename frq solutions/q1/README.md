@@ -12,7 +12,9 @@
 
 ## Struggles with this question...
 - In the *simulateManyDays* method I was planning to use a while loop that looks like:
-  ```While(currentFood!=0){/* to be implemented */}```
+  ```
+  While(currentFood!=0){/* to be implemented */}
+  ```
   I realized that I could not use this code because it didn't include the requirement of simulate for consecutive days
   The while loop that I wrote will keep on repeating itself until the *currentFood* is empty
 
